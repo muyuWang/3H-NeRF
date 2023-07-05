@@ -8,4 +8,4 @@ We present the experimental results of our method for novel view synthesis and p
 `novel_view2.png` shows the top view, front view and up view.
 
 Our method can also support pose editing. `original_pose.mp4` is the evalution results with its original pose. `new_edited_pose.mp4` is the video generated with an edited posed 
-and `fixed_pose.mp4` is generated with a fixed pose. You can play them simultaneously for better comparison.
+and `fixed_pose.mp4` is generated with a fixed pose. You can play them simultaneously for better comparison as `play_together.mp4`.
